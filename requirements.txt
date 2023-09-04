@@ -1,0 +1,4 @@
+geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1683384012847/work
+rasterio==1.3.6
+shapely @ file:///D:/bld/shapely_1679081787218/work
+Unidecode==1.3.6
